@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: gestion-productos
+
+  cloud:
+    config:
+      uri: http://user:pass@localhost:8888
